@@ -23,4 +23,4 @@ This project is based on my MSc dissertation on antimicrobial dental cement.
 - Clinical applications
 
 ## Author
-Sunitha medasani
+Sunitha Medasani
